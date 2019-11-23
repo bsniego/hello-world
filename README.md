@@ -1,4 +1,6 @@
 # hello-world
-test hello world 
+Test hello world 
 
-this is some addition text to test a version release
+This is some addition text to test a version release
+
+Then I added another line
